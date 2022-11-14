@@ -1,0 +1,48 @@
+tools = ["Article Rewriter","Plagiarism Checker","Backlink Maker","Meta Tag Generator","Meta Tags Analyzer","Keyword Position Checker","Robots.txt Generator","XML Sitemap Generator","Backlink Checker","Alexa Rank Checker","Word Counter","Online Ping Website Tool","Link Analyzer","My IP Address","Keyword Density Checker","Google Malware Checker","Domain Age Checker","Whois Checker","Domain into IP","URL Rewriting Tool","www Redirect Checker","Mozrank Checker","URL Encoder \/ Decoder","Server Status Checker","Webpage Screen Resolution Simulator","Page Size Checker","Reverse IP Domain Checker","Blacklist Lookup","Suspicious Domain Checker","Link Price Calculator","Website Screenshot Generator","Domain Hosting Checker","Get Source Code of Webpage","Google Index Checker","Website Links Count Checker","Class C Ip Checker","Online Md5 Generator","Page Speed Checker","Code to Text Ratio Checker","Find DNS records","What is my Browser","Email Privacy","Google Cache Checker","Broken Links Finder","Search Engine Spider Simulator","Keywords Suggestion Tool","Domain Authority Checker","Page Authority Checker","Pagespeed Insights Checker","Htaccess Redirect Generator","Bulk GEO IP Locator","Color Picker","RGB to Hex","Bank to IFSC Code","Dummy Image Placeholder Generator","Hex to RGB Color Converter","IFSC Code to Bank Details","Privacy Policy Generator","QR Code Decoder","Terms & Conditions Generator","YouTube Thumbnail Downloader"]; toolsURL = ["https:\/\/demo.atozseotools.com\/article-rewriter","https:\/\/demo.atozseotools.com\/plagiarism-checker","https:\/\/demo.atozseotools.com\/backlink-maker","https:\/\/demo.atozseotools.com\/meta-tag-generator","https:\/\/demo.atozseotools.com\/meta-tags-analyzer","https:\/\/demo.atozseotools.com\/keyword-position-checker","https:\/\/demo.atozseotools.com\/robots-txt-generator","https:\/\/demo.atozseotools.com\/xml-sitemap-generator","https:\/\/demo.atozseotools.com\/backlink-checker","https:\/\/demo.atozseotools.com\/alexa-rank-checker","https:\/\/demo.atozseotools.com\/word-counter","https:\/\/demo.atozseotools.com\/online-ping-website-tool","https:\/\/demo.atozseotools.com\/link-analyzer-tool","https:\/\/demo.atozseotools.com\/my-ip-address","https:\/\/demo.atozseotools.com\/keyword-density-checker","https:\/\/demo.atozseotools.com\/google-malware-checker","https:\/\/demo.atozseotools.com\/domain-age-checker","https:\/\/demo.atozseotools.com\/whois-checker","https:\/\/demo.atozseotools.com\/domain-into-ip","https:\/\/demo.atozseotools.com\/url-rewriting-tool","https:\/\/demo.atozseotools.com\/www-redirect-checker","https:\/\/demo.atozseotools.com\/mozrank-checker","https:\/\/demo.atozseotools.com\/url-encoder-decoder","https:\/\/demo.atozseotools.com\/server-status-checker","https:\/\/demo.atozseotools.com\/webpage-screen-resolution-simulator","https:\/\/demo.atozseotools.com\/page-size-checker","https:\/\/demo.atozseotools.com\/reverse-ip-domain-checker","https:\/\/demo.atozseotools.com\/blacklist-lookup","https:\/\/demo.atozseotools.com\/suspicious-domain-checker","https:\/\/demo.atozseotools.com\/link-price-calculator","https:\/\/demo.atozseotools.com\/website-screenshot-generator","https:\/\/demo.atozseotools.com\/domain-hosting-checker","https:\/\/demo.atozseotools.com\/get-source-code-of-webpage","https:\/\/demo.atozseotools.com\/google-index-checker","https:\/\/demo.atozseotools.com\/website-links-count-checker","https:\/\/demo.atozseotools.com\/class-c-ip-checker","https:\/\/demo.atozseotools.com\/online-md5-generator","https:\/\/demo.atozseotools.com\/page-speed-checker","https:\/\/demo.atozseotools.com\/code-to-text-ratio-checker","https:\/\/demo.atozseotools.com\/find-dns-records","https:\/\/demo.atozseotools.com\/what-is-my-browser","https:\/\/demo.atozseotools.com\/email-privacy","https:\/\/demo.atozseotools.com\/google-cache-checker","https:\/\/demo.atozseotools.com\/broken-links-finder","https:\/\/demo.atozseotools.com\/spider-simulator","https:\/\/demo.atozseotools.com\/keywords-suggestion-tool","https:\/\/demo.atozseotools.com\/domain-authority-checker","https:\/\/demo.atozseotools.com\/page-authority-checker","https:\/\/demo.atozseotools.com\/pagespeed-insights-checker","https:\/\/demo.atozseotools.com\/htaccess-redirect-generator","https:\/\/demo.atozseotools.com\/bulk-geo-ip-locator","https:\/\/demo.atozseotools.com\/color-picker","https:\/\/demo.atozseotools.com\/rgb-to-hex","https:\/\/demo.atozseotools.com\/bank-details-to-ifsc-code","https:\/\/demo.atozseotools.com\/dummy-image-placeholder","https:\/\/demo.atozseotools.com\/hex-to-rgb-color-converter","https:\/\/demo.atozseotools.com\/ifsc-code-to-bank-details","https:\/\/demo.atozseotools.com\/privacy-policy-generator","https:\/\/demo.atozseotools.com\/qr-code-decoder","https:\/\/demo.atozseotools.com\/terms-conditions-generator","https:\/\/demo.atozseotools.com\/youtube-thumbnail-downloader"];searchNo = 'No result found related to your keyword...'; keyCheck = 'Site keywords field can\'t be empty!'; desCheck = 'Site dscription field can\'t be empty!'; titleCheck = 'Site title field can\'t be empty!'; capRefresh = 'Loading...'; charLeft = 'Characters left'; inputURL = 'Enter a valid URL'; inputEm = 'Input data field can\'t be empty'; capCodeWrg = 'Your image verification code is wrong!'; imageVr = 'Please verify your image verification'; emptyStr = 'Domain name field can\'t be empty!'; oopsStr = 'Oops...'; baseUrl = 'https://demo.atozseotools.com/'; axPath = 'https://demo.atozseotools.com/ajax'; var trackLink = 'https://demo.atozseotools.com/rainbow/track'; var xdEnabled = true;var xdOption = "close";var xdData1 = 'Adblock detected!';var xdData2 = "<div class=\"text-center\">\n<br>\n<i style=\"color: #e74c3c; font-size: 120px;\" class=\"fa fa-frown-o\" aria-hidden=\"true\"></i>\n<p class=\"bold\">We have detected that you are using adblocking plugin in your browser.</p>\n\n<p  class=\"bold\">\nThe revenue we earn by the advertisements is used to manage this website, we request you to whitelist our website in your adblocking plugin.</p>\n<p><button onclick=\"location.reload();\" class=\"btn btn-success\">Refresh this Page</button></p>\n<br>\n</div>";    function parseHost(url) {
+    var a=document.createElement('a');
+    a.href=url;
+    return a.hostname;
+    }
+    jQuery(document).ready(function(){
+    var screenSize = window.screen.width + 'x' + window.screen.height;
+    var myUrl = window.location.href;
+    var myHost = window.location.hostname;
+    var refUrl = document.referrer;
+    var refHost = parseHost(refUrl);
+    if(myHost == refHost)
+    refUrl = 'Direct';
+    jQuery.post(trackLink,{page:myUrl,ref:refUrl,screen:screenSize},function(data){
+    });
+    if(xdEnabled){
+    var xdBlockEnabled = false;
+    var testAd = document.createElement('div');
+    testAd.innerHTML = '&nbsp;';
+    testAd.className = 'adsense banner_ad pub_728x90 pub_300x250';
+    document.body.appendChild(testAd);
+    window.setTimeout(function() {
+    if (testAd.offsetHeight === 0) {
+    xdBlockEnabled = true;
+    }
+    testAd.remove();
+    if(xdBlockEnabled){
+    if(xdOption == 'link'){
+    window.location = xdData1;
+    }else if(xdOption == 'close'){
+    $('#xdTitle').html(xdData1);
+    $('#xdContent').html(xdData2);
+    $('#xdBox').modal('show');
+    }else if(xdOption == 'force'){
+    $('#xdClose').hide();
+    $('#xdTitle').html(xdData1);
+    $('#xdContent').html(xdData2);
+    $('#xdBox').modal({
+    backdrop: 'static',
+    keyboard: false
+    });
+    $('#xdBox').modal('show');
+    }
+    }
+    }, 100);
+    }
+    });
+    
